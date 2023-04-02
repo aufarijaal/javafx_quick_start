@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="javafx-quick-start:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/javafx_quick_start_jar/1_0_0</output-path>
+    <root id="archive" name="javafx-quick-start.jar">
+      <element id="module-output" name="javafx-quick-start" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.32/slf4j-api-1.7.32.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.2.6/logback-classic-1.2.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/ch/qos/logback/logback-core/1.2.6/logback-core-1.2.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/xerial/sqlite-jdbc/3.40.0.0/sqlite-jdbc-3.40.0.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
